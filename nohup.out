@@ -1,0 +1,77 @@
+[I 15:35:23.315 NotebookApp] Serving notebooks from local directory: /home/amado/ML
+[I 15:35:23.315 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:35:23.315 NotebookApp] http://localhost:8888/?token=9417a25bbaeed7ba5504044ec7339e4c6af3ae78d9f087d3
+[I 15:35:23.315 NotebookApp]  or http://127.0.0.1:8888/?token=9417a25bbaeed7ba5504044ec7339e4c6af3ae78d9f087d3
+[I 15:35:23.315 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:35:23.318 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/amado/.local/share/jupyter/runtime/nbserver-377-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=9417a25bbaeed7ba5504044ec7339e4c6af3ae78d9f087d3
+     or http://127.0.0.1:8888/?token=9417a25bbaeed7ba5504044ec7339e4c6af3ae78d9f087d3
+[W 15:37:01.745 NotebookApp] 404 DELETE /api/sessions/7d7cddef-fc67-453b-b2a5-e36c177d5a4f (127.0.0.1): Session not found: session_id='7d7cddef-fc67-453b-b2a5-e36c177d5a4f'
+[W 15:37:01.745 NotebookApp] Session not found: session_id='7d7cddef-fc67-453b-b2a5-e36c177d5a4f'
+[W 15:37:01.745 NotebookApp] 404 DELETE /api/sessions/7d7cddef-fc67-453b-b2a5-e36c177d5a4f (127.0.0.1) 1.370000ms referer=http://127.0.0.1:8888/notebooks/MNIST.ipynb
+[I 15:37:01.770 NotebookApp] Kernel started: 94f803e6-1f12-4c53-a6aa-b49278da05be, name: python3
+[I 15:37:04.599 NotebookApp] Starting buffering for 94f803e6-1f12-4c53-a6aa-b49278da05be:692f3caa07e742fa838ac1d202d4d06e
+[W 15:37:06.132 NotebookApp] 404 DELETE /api/sessions/944c7d7f-ed70-45f6-8dff-f98b2a0cc832 (127.0.0.1): Session not found: session_id='944c7d7f-ed70-45f6-8dff-f98b2a0cc832'
+[W 15:37:06.132 NotebookApp] Session not found: session_id='944c7d7f-ed70-45f6-8dff-f98b2a0cc832'
+[W 15:37:06.133 NotebookApp] 404 DELETE /api/sessions/944c7d7f-ed70-45f6-8dff-f98b2a0cc832 (127.0.0.1) 1.410000ms referer=http://127.0.0.1:8888/notebooks/Vectors.ipynb
+[I 15:37:06.147 NotebookApp] Kernel started: e7ec626b-24df-4278-b0f8-1063606c5f44, name: python3
+[I 15:42:04.237 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:44:04.868 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:46:04.927 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:48:04.235 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:50:04.226 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:52:04.225 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:52:33.310 NotebookApp] Starting buffering for e7ec626b-24df-4278-b0f8-1063606c5f44:d4e0faeaaff6474d8eb8d3cf5dac0ddc
+[I 15:52:33.624 NotebookApp] Kernel restarted: e7ec626b-24df-4278-b0f8-1063606c5f44
+[I 15:52:33.650 NotebookApp] Restoring connection for e7ec626b-24df-4278-b0f8-1063606c5f44:d4e0faeaaff6474d8eb8d3cf5dac0ddc
+[I 15:52:34.228 NotebookApp] Replaying 3 buffered messages
+[I 15:54:04.215 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:56:04.209 NotebookApp] Saving file at /Vectors.ipynb
+[I 15:59:34.151 NotebookApp] Kernel interrupted: e7ec626b-24df-4278-b0f8-1063606c5f44
+[I 16:00:04.184 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:02:04.256 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:04:04.226 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:06:04.226 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:10:04.246 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:12:04.196 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:14:04.927 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:18:04.238 NotebookApp] Saving file at /Vectors.ipynb
+[I 16:20:04.214 NotebookApp] Saving file at /Vectors.ipynb
+[W 16:21:14.342 NotebookApp] Notebook MNIST.ipynb is not trusted
+[I 16:23:37.075 NotebookApp] Starting buffering for 94f803e6-1f12-4c53-a6aa-b49278da05be:9fecae2671f24707882e4607cb68ed47
+[I 16:23:38.265 NotebookApp] Starting buffering for e7ec626b-24df-4278-b0f8-1063606c5f44:d4e0faeaaff6474d8eb8d3cf5dac0ddc
+[I 03:29:29.773 NotebookApp] Serving notebooks from local directory: /home/amado/ML
+[I 03:29:29.774 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 03:29:29.774 NotebookApp] http://localhost:8888/?token=e6da233bc6f5bd0831c603332187637f1f33971651a638d4
+[I 03:29:29.774 NotebookApp]  or http://127.0.0.1:8888/?token=e6da233bc6f5bd0831c603332187637f1f33971651a638d4
+[I 03:29:29.774 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:29:29.781 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/amado/.local/share/jupyter/runtime/nbserver-199-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e6da233bc6f5bd0831c603332187637f1f33971651a638d4
+     or http://127.0.0.1:8888/?token=e6da233bc6f5bd0831c603332187637f1f33971651a638d4
+[I 03:30:42.398 NotebookApp] The port 8888 is already in use, trying another port.
+[I 03:30:42.402 NotebookApp] Serving notebooks from local directory: /home/amado/ML
+[I 03:30:42.402 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 03:30:42.402 NotebookApp] http://localhost:8889/?token=a9afb1c11af75d3bc9720761ce0b567e12d7b5017d21ce3f
+[I 03:30:42.402 NotebookApp]  or http://127.0.0.1:8889/?token=a9afb1c11af75d3bc9720761ce0b567e12d7b5017d21ce3f
+[I 03:30:42.402 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:30:42.406 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/amado/.local/share/jupyter/runtime/nbserver-205-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=a9afb1c11af75d3bc9720761ce0b567e12d7b5017d21ce3f
+     or http://127.0.0.1:8889/?token=a9afb1c11af75d3bc9720761ce0b567e12d7b5017d21ce3f
+[I 03:45:46.645 NotebookApp] Shutting down on /api/shutdown request.
+[I 03:45:46.647 NotebookApp] Shutting down 0 kernels
+[I 03:45:46.647 NotebookApp] Shutting down 0 terminals
+[I 03:45:50.800 NotebookApp] Shutting down on /api/shutdown request.
+[I 03:45:50.803 NotebookApp] Shutting down 0 kernels
+[I 03:45:50.803 NotebookApp] Shutting down 0 terminals
